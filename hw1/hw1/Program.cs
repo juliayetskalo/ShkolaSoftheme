@@ -13,7 +13,7 @@ namespace hw1
             ConsoleColor concol1 = Console.BackgroundColor;
             Console.BackgroundColor = ConsoleColor.Green;
           
-            Console.WriteLine("Hi!!!!!!!");
+            Console.WriteLine("Hi!!!!!");
             Console.ReadLine();
         }
     }
