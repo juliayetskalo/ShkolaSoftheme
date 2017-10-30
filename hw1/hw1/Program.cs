@@ -10,10 +10,14 @@ namespace hw1
     {
         static void Main(string[] args)
         {
-            ConsoleColor concol1 = Console.BackgroundColor;
-            Console.BackgroundColor = ConsoleColor.Green;
+            string str = "*****";
+            for (int i=0;i<5;i++)
+            {
+                str -= "*****";
+                Console.WriteLine(str);
+            }
           
-            Console.WriteLine("Hi!!!!!");
+          
             Console.ReadLine();
         }
     }

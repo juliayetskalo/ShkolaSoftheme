@@ -3,3 +3,10 @@ C:\Users\yyetskalo\Desktop\ShkolaSoftheme\ShkolaSoftheme\CSharpHW\1\hw1\hw1\bin\
 C:\Users\yyetskalo\Desktop\ShkolaSoftheme\ShkolaSoftheme\CSharpHW\1\hw1\hw1\bin\Debug\hw1.pdb
 C:\Users\yyetskalo\Desktop\ShkolaSoftheme\ShkolaSoftheme\CSharpHW\1\hw1\hw1\obj\Debug\hw1.exe
 C:\Users\yyetskalo\Desktop\ShkolaSoftheme\ShkolaSoftheme\CSharpHW\1\hw1\hw1\obj\Debug\hw1.pdb
+C:\Users\1\Desktop\1\hw1\hw1\bin\Debug\hw1.exe.config
+C:\Users\1\Desktop\1\hw1\hw1\bin\Debug\hw1.exe
+C:\Users\1\Desktop\1\hw1\hw1\bin\Debug\hw1.pdb
+C:\Users\1\Desktop\1\hw1\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\1\hw1\hw1\obj\Debug\hw1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\1\hw1\hw1\obj\Debug\hw1.exe
+C:\Users\1\Desktop\1\hw1\hw1\obj\Debug\hw1.pdb
